@@ -3,7 +3,7 @@ Explore the usage patterns of Citi Bike, a bike-sharing system based on 2021 dat
 
 ![citi-bike-station-bikes](https://github.com/Annbelbella/CitiBike/assets/124645643/37767f8b-90c2-43ae-8810-6e239bb3e81b)
 
-## Project Outline 
+## Challenge Outline 
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
 1. Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
